@@ -6,4 +6,4 @@ In this study, the OJ dataset from the ISLR package has been analyzed. The datas
 GitHub_Proj11.pdf: Project report in PDF <br>
 GitHub_Proj11.R: R script
 
-You can view the **Project report** in HTML by [clicking here](http://htmlpreview.github.io/?).
+You can view the **Project report** in HTML by [clicking here](http://htmlpreview.github.io/?https://github.com/gapkim/Sales_of_Orange_Juice2/blob/master/GitHub_Proj11.html).
